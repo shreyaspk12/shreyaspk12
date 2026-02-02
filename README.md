@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
--->
+
 # 💫 About Me:
 👋 Hi, I'm Shreya  
 Recent BCA graduate passionate about Python, Machine Learning, and AI.  
@@ -31,5 +31,8 @@ Actively exploring advanced ML concepts and scalable system design.
 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-koli-2004sk) 
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kolishreya2004@gmail.com) 
+ 
+ #💻 Qutoes of My Profile :
+ “Code. Break. Fix. Repeat.”
 
 - Proudly created with GPRM ( https://gprm.itsvg.in ) -->
