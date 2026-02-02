@@ -28,7 +28,7 @@ Actively exploring advanced ML concepts and scalable system design.
 
 ----------------
 
-<!-## 🌐 Socials:
+🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-koli-2004sk) 
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kolishreya2004@gmail.com) 
 
